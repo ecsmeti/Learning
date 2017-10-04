@@ -1,2 +1,3 @@
 # Learning
-Learning stuff
+Learning stuff!
+External contribution is not wanted.
